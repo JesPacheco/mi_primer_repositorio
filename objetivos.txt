@@ -1,2 +1,1 @@
 Objetivos del proyecto.
-- Aprender a usar Git desde cero.

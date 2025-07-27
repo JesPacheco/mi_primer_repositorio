@@ -1,2 +1,1 @@
 Esta es mi reflexión sobre Git.
-Git permite llevar control de versiones y facilita el trabajo colaborativo.
